@@ -18,6 +18,10 @@ void main() {
             icon: Icon(Icons.person),
             label: 'Profile',
           ),
+          NavigationDestination(
+            icon: Icon(Icons.settings),
+            label: 'Settings',
+          ),
         ],
       ),
     ),
